@@ -18,7 +18,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "mehmetkilic\\larCouch\\": "src/"
+            "mehmetkilic\\laravel-couchdb\\": "src/"
         },
         "classmap": ["src/"]
     }
