@@ -1,5 +1,5 @@
 {
-    "name": "mehmetkilic/larCouch",
+    "name": "mehmetkilic/laravel-couchdb",
     "version": "0.0.1",
     "description": "Laravel CouchDB package",
     "keywords": ["laravel", "couchdb", "laravel couchdb"],
